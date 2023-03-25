@@ -6,6 +6,7 @@ public class Project1 {
 		System.out.println(addition(5,10));
 		System.out.println(subtract(5,10));
 		System.out.println(multiply(5,10));
+		//something done by jay
 		
 
 	}
